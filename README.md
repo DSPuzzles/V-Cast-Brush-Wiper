@@ -1,4 +1,4 @@
-# V-Cast-Brush-Wiper
+# V-Cast Brush Wiper
 Models for a brass brush holder for wiping the nozzle on a RatRig V-Cast printer.
 
 Made to work with brass brushes with the handle cut off.
